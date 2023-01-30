@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tcetreactapp/static/css/main.073c9b0a.css",
+    "main.js": "/Tcetreactapp/static/js/main.1809a714.js",
+    "static/js/787.bc7d429a.chunk.js": "/Tcetreactapp/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/Tcetreactapp/index.html",
+    "main.073c9b0a.css.map": "/Tcetreactapp/static/css/main.073c9b0a.css.map",
+    "main.1809a714.js.map": "/Tcetreactapp/static/js/main.1809a714.js.map",
+    "787.bc7d429a.chunk.js.map": "/Tcetreactapp/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1809a714.js"
+  ]
+}
